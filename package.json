@@ -1,0 +1,16 @@
+{
+  "name": "VueDocs",
+  "version": "1.0.0",
+  "description": "VueDocs",
+  "main": "index.js",
+  "scripts": {
+    "start": "vuepress dev src",
+    "build": "vuepress build src"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "vuepress": "^1.8.2"
+  }
+}
